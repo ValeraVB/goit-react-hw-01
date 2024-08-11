@@ -1,4 +1,4 @@
-import "./TransactionHistory.css"; // Імпортуйте CSS файл
+import "./TransactionHistory.css";
 
 const TransactionHistory = ({ items }) => {
   return (
